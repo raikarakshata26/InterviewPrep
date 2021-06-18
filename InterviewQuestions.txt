@@ -1,0 +1,11 @@
+
+****Multiithreading***
+can you take same lock multiple time?
+why use rest over web applications?
+
+
+
+
+*******Spting Boot*************
+how to autowire different implementation of interface?-https://stackoverflow.com/questions/12899372/spring-why-do-we-autowire-the-interface-and-not-the-implemented-class
+A has object of singleton scope, class b has object of scope prototype. can you call 
